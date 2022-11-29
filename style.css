@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+    text-align: center;
+    background-color: rgb(34, 26, 26);
+    height: 350px;
+    width: 250px;
+    margin: auto;
+    border-radius: 10px;
+    border: 2px solid gold;
+    padding: 10px;
+    
+}
+.screen{
+    background-color: rgb(178, 187, 187);
+    height: 50px;
+    width: 200px;
+    margin-top: 5px;
+    margin: 0px;
+    font-size: 30px;
+    text-align: right;
+    border-radius:5px ;
+    border: 2px solid gold;
+    color: black;
+}
+.button{
+    background-color: brown;
+    color: beige;
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+    border-radius: 15px;
+}
+.oper{
+    height: 40px;
+    width: 40px;
+    background-color: blue;
+}
+.ac_nill{
+    background-color: red;
+    height: 30px;
+}
+.nill{
+    background-color: gray;
+    height: 30px;
+}
+.off{
+    background-color: green;
+    height: 30px;
+}
+.button:hover{
+    border: 2px solid gold;
+}
